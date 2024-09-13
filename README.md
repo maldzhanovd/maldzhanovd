@@ -1,7 +1,7 @@
 ### Hi people 👋
 
-- 🔭 I’m currently working on a browser extension for regional carbon footprint.
-- 🌱 I’m currently learning Node.JS, Vue.JS
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 📫 Reach me ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maldzhanovd&show_icons=true)
